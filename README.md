@@ -6,7 +6,7 @@
 
 - jmeter.bat
 - 
-![alt](images/jmeterbat.png)
+![alt](images/jmeterbat.PNG)
 
 ### Step 2 - Create a TestPlan
 
@@ -18,7 +18,7 @@
 
 - sampler is used to make the request. We create a HTTP sampler for http requests
 
-![alt](images/samplet.png)
+![alt](images/sampler.png)
 
 ### Step 5 - Add Listeners
 
