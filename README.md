@@ -5,18 +5,33 @@
 ### Step 1 - Start Jmeter
 
 - jmeter.bat
+- 
+![alt](images/jmeterbat.png)
 
 ### Step 2 - Create a TestPlan
 
 ### Step 3 - Create a Thread Group (Users)
 
+![alt](images/threadgroup.png)
+
 ### Step 4 - Add a Sampler (Http)
+
+- sampler is used to make the request. We create a HTTP sampler for http requests
+
+![alt](images/samplet.png)
 
 ### Step 5 - Add Listeners
 
 Listeners are a way of seeing the data after the test is run or during
 
+
 ### Step 6 - To Run the Test
+
+Run the test using the play button
+
+### Clearing results
+
+To clear results, click the broom in the bar
 
 ### Step 8 - Add certificate
 
