@@ -20,6 +20,10 @@
 
 ![alt](images/sampler.png)
 
+- Example sampler
+
+![alt](images/samplerexample.PNG)
+
 ### Step 5 - Add Listeners
 
 Listeners are a way of seeing the data after the test is run or during
